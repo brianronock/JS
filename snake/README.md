@@ -34,19 +34,19 @@ A classic Snake game built with JavaScript and HTML5 Canvas, featuring modern en
 
 🛠️ Installation and Usage
 
-	1.	Clone the Repository:
+1.	Clone the Repository:
 
-git clone https://github.com/brianronock/JS.git
-
-
-	2.	Navigate to the Project Folder:
-
-cd snake
+    git clone https://github.com/brianronock/JS.git
 
 
-	3.	Open the Game:
+2.	Navigate to the Project Folder:
+
+    cd snake
+
+
+3.	Open the Game:
 	•	Open index.html in your preferred browser.
-	4.	Play:
+4.	Play:
 	•	Enjoy the game!
 
 🖼️ Screenshots
@@ -56,12 +56,12 @@ Welcome Screen
 Gameplay
 
 📄 Project Structure
-
-.
-├── index.html          # Main HTML file
-├── style.css           # Styling for the game
-├── snakeGame.js        # Core JavaScript game logic
-├── README.md           # Project README (this file)
+        
+    .
+    ├── index.html          # Main HTML file
+    ├── style.css           # Styling for the game
+    ├── snakeGame.js        # Core JavaScript game logic
+    ├── README.md           # Project README (this file)
 
 🧩 Technologies Used
 
