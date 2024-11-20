@@ -4,20 +4,22 @@ A collection of classic and modern games built with JavaScript and HTML5 Canvas.
 
 📂 Folder Structure
 
+```
 .
-├── SnakeGame           # Folder for the Snake game
-│   ├── index.html      # HTML file for the Snake game
-│   ├── snakeGame.js    # Core JavaScript logic for Snake
-│   ├── style.css       # No Styles yet.. inline in index.html
-│   ├── README.md       # Snake-specific README
+├── SnakeGame/               # Folder for the Snake game
+│   ├── index.html           # HTML file for the Snake game
+│   ├── snakeGame.js         # Core JavaScript logic for Snake
+│   ├── style.css            # Styles for Snake
+│   ├── README.md            # Snake-specific README
 │
-├── ......
+├── AnotherGame/             # Example folder for another game
 │   ├── index.html
 │   ├── anotherGame.js
 │   ├── style.css
 │   ├── README.md
 │
-├── README.md           # Main README for the collection
+├── README.md                # Main README for the collection
+```
 
 🎮 Available Games
 
