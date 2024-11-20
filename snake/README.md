@@ -1,5 +1,3 @@
-Here’s a README.md file for your Snake Game project, designed to be hosted on GitHub:
-
 🐍 Snake Game
 
 A classic Snake game built with JavaScript and HTML5 Canvas, featuring modern enhancements like speed levels, obstacles, a health system, and dynamic gameplay controls.
@@ -99,4 +97,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 	•	Inspired by the classic Snake game.
 	•	Built with love and JavaScript ❤️.
 
-Replace placeholder image URLs and your-username with your GitHub username. Let me know if you’d like me to include any additional details! 🚀
+EMJOY!! 🚀
