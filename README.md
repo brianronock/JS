@@ -44,20 +44,12 @@ A collection of classic and modern games built with JavaScript and HTML5 Canvas.
 
 1.	Clone the Repository:
 
-<<<<<<< HEAD
 ```git clone https://github.com/brianronock/js.git```
-=======
-    git clone https://github.com/brianronock/js.git
->>>>>>> e03daf9 (Edit README.md)
 
 
 2.	Navigate to a Game Folder:
 
-<<<<<<< HEAD
 ```cd snake```
-=======
-    cd snake
->>>>>>> e03daf9 (Edit README.md)
 
 
 3.	Open the Game:
